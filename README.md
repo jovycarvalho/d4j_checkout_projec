@@ -17,17 +17,7 @@ This repository contains a Bash script to automate the process of checking out p
 
 ## Directory Structure
 
-├── data/
-│   ├── projects_csv_data/
-│   ├── output/
-│   │   ├── sh_files/
-│   │   ├── checkout_projects/
-│   │   └── backup/
-├── log/
-├── utils.sh
-├── get_projects_files_info.sh
-├── generate_project_extraction.sh
-└── script.sh (this script)
+![alt text](image.png)
 
 
 ## Variables and Constants
